@@ -1,15 +1,13 @@
-This repository contains the data and code supporting
-D. Nikolaev et al., Contactless continuous guidance of matter in its main states
-using curved elongated Bessel-like acoustic fields
+This repository contains code supporting
+D. Nikolaev et al., Contactless continuous guidance of matter in its main states using curved elongated Bessel-like acoustic fields
 
 ## Contents
 
 ### FieldGeneration
-MATLAB code for generating the acoustic field and calculating
-the transducer excitation parameters.
+MATLAB code for generating the acoustic field and calculating the transducer excitation parameters.
 
 ### FEM simulation
-COMSOL simulation filesdata supporting the numerical results.
+COMSOL simulation files supporting the numerical results of particle trajectory and acoustic streaming calculations.
 
 ## Requirements
 MATLAB R2023
